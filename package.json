@@ -1,0 +1,22 @@
+{
+  "name": "voicefoundryassingment",
+  "version": "1.0.0",
+  "description": "a lambda function using a dynamodb table and amazon connect to connect vanity plates to phone numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristaMarbury/voicefoundryassingment.git"
+  },
+  "author": "Krista Marbury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristaMarbury/voicefoundryassingment/issues"
+  },
+  "homepage": "https://github.com/KristaMarbury/voicefoundryassingment#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1046.0"
+  }
+}
